@@ -10,5 +10,6 @@ public class HelloAA {
 
 		   System.out.println("hhh");
 		   System.out.println("lll");
+		   System.out.println("saoma");
 	}
 }
